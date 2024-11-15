@@ -1,0 +1,3 @@
+/Users/sutommy/ClionProjects_2/instantiateObejct/cmake-build-debug/CMakeFiles/instantiateObejct.dir
+/Users/sutommy/ClionProjects_2/instantiateObejct/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sutommy/ClionProjects_2/instantiateObejct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
